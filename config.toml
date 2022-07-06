@@ -3,6 +3,8 @@ languageCode = 'es'
 defaultContentLanguage = "es"
 title = 'Colegio Sara Deluque Panaflet'
 
+summaryLength = "10"
+
 theme = "bootstrap5"
 
  [frontmatter]
