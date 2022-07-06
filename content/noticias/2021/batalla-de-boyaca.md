@@ -8,7 +8,7 @@ ImagenDestacada: "https://jfdazaluque.github.io/colsara/images/noticias/2021/bat
 
 Colombia ha sufrido innumerables acontecimientos que marcan su devenir histórico, por ello se conmemora el 20 de julio los primeros gritos de independencia que direccionan el proceso de descolonización del yugo español, la invasión francesa a España en 1808, llevada a cabo por parte de Napoleón Bonaparte, y la organización de juntas de gobierno a nivel local por Fernando VII para resistir al invasor, fueron factores determinantes teniendo en cuenta el debilitamiento que se produjo en la colonia por parte de la corona.
  
-{{< imagen src="/images/noticias/2021/batalla/1.jpeg" alt="Batalla De Boyaca" title="Batalla De Boyaca" >}}
+{{< imagen src="https://jfdazaluque.github.io/colsara/images/noticias/2021/batalla/1.jpeg" alt="Batalla De Boyaca" title="Batalla De Boyaca" >}}
 
 Fue entonces en 1810 cuando se gestaron ideas, acciones de cómo liberarse de la corona española, nombres como Antonio Morales, Pantaleón Santamaría, don Francisco José de Caldas, criollos que crearon una atmósfera de conflicto por el no préstamo de un florero siendo la excusa perfecta para crear el caos contra José González Llorente el día viernes 20 de julio. Es así que en la plaza mayor colmada de gente de todas las clases se escuchaban gritos eufóricos expresando frases como: ¡Están insultando a los americanos! ¡Queremos Junta! ¡Viva el Cabildo! ¡Abajo el mal gobierno! ¡Mueran los bonapartistas! La ira se tomó el sentir del pueblo.
 
