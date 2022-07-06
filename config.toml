@@ -1,0 +1,95 @@
+baseURL = 'http://example.org/'
+languageCode = 'es'
+defaultContentLanguage = "es"
+title = 'Colegio Sara Deluque Panaflet'
+
+theme = "bootstrap5"
+
+ [frontmatter]
+    date = ["date", "publishDate", "lastmod"]
+    lastmod = ["lastmod", ":fileModTime", ":default"]
+    
+sectionPagesMenu = "main"
+[menu]
+    
+    [[menu.main]]
+    identifier = "el-colegio"
+    title = "El Colegio"
+    url = "/#/"
+    weight = 200
+    [[menu.main]]
+    parent = "el-colegio"
+    identifier = "horizonte-Institucional"
+    title = "Horizonte Institucional"
+    url = "/el-colegio/horizonte-institucional/presentacion/"
+    [[menu.main]]
+    parent = "el-colegio"
+    identifier = "nuestro-equipo"
+    title = "Nuestro Equipo (Docentes)"
+    url = "#"
+    [[menu.main]]
+    parent = "el-colegio"
+    identifier = "recorrido-virtual"
+    title = "Recorrido Virtual"
+    url = "#"
+    [[menu.main]]
+    parent = "el-colegio"
+    identifier = "reconocimientos"
+    title = "Reconocimientos"
+    url = "#"
+    [[menu.main]]
+    parent = "el-colegio"
+    identifier = "resena-historica"
+    title = "Reseña Historica"
+    url = "#"
+    
+    [[menu.main]]
+    identifier = "investigacion"
+    title = "Investigación"
+    url = "/#/" 
+    weight = 300
+    [[menu.main]]
+    parent = "investigacion"
+    identifier = "proyectos-pedagogicos"
+    title = "Proyectos Pedagógicos"
+    url = "/#/"
+    [[menu.main]]
+    parent = "investigacion"
+    identifier = "rincon-literario"
+    title = "Rincon Literario"
+    url = "/#/"
+
+[[menu.main]]
+    identifier = "gpts"
+    title = "GPTS"
+    url = "/#/"
+    weight = 400
+
+    [[menu.main]]
+    identifier = "vida-escolar"
+    title = "Vida Escolar"
+    url = "/#/" 
+    weight = 500   
+    [[menu.main]]
+    parent = "vida-escolar"
+    identifier = "circulares"
+    title = "Circulares "
+    url = "/#/"
+    [[menu.main]]
+    parent = "vida-escolar"
+    identifier = "pqrs "
+    title = "PQRS "
+    url = "/#/"
+    [[menu.main]]
+    parent = "vida-escolar"
+    identifier = "cuadro-de-honor"
+    title = "Cuadro de Honor"
+    url = "/#/"
+    [[menu.main]]
+    parent = "vida-escolar"
+    identifier = "aula-virtual "
+    title = "Aula Virtual "
+    url = "https://colsara.q10.com"
+    hrefTargetBlank = true
+
+    
