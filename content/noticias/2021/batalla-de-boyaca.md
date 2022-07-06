@@ -3,7 +3,7 @@ title: "Batalla De Boyaca"
 date: 2019-08-13T23:14:15-05:00
 draft: false
 author: "colsara"
-ImagenDestacada: "/images/noticias/2021/batalla/1.jpeg"
+ImagenDestacada: "images/noticias/2021/batalla/1.jpeg"
 ---
 
 Colombia ha sufrido innumerables acontecimientos que marcan su devenir histórico, por ello se conmemora el 20 de julio los primeros gritos de independencia que direccionan el proceso de descolonización del yugo español, la invasión francesa a España en 1808, llevada a cabo por parte de Napoleón Bonaparte, y la organización de juntas de gobierno a nivel local por Fernando VII para resistir al invasor, fueron factores determinantes teniendo en cuenta el debilitamiento que se produjo en la colonia por parte de la corona.
