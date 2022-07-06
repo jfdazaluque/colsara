@@ -6,7 +6,16 @@
     <description>Recent content in Noticias on Colegio Sara Deluque Panaflet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 13 Aug 2020 23:09:22 -0500</lastBuildDate><atom:link href="https://jfdazaluque.github.io/colsara/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Aug 2021 23:14:15 -0500</lastBuildDate><atom:link href="https://jfdazaluque.github.io/colsara/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Batalla De Boyaca</title>
+      <link>https://jfdazaluque.github.io/colsara/noticias/2021/batalla-de-boyaca/</link>
+      <pubDate>Fri, 13 Aug 2021 23:14:15 -0500</pubDate>
+      
+      <guid>https://jfdazaluque.github.io/colsara/noticias/2021/batalla-de-boyaca/</guid>
+      <description>Colombia ha sufrido innumerables acontecimientos que marcan su devenir histórico, por ello se conmemora el 20 de julio los primeros gritos de independencia que direccionan el proceso de descolonización del yugo español, la invasión francesa a España en 1808, llevada a cabo por parte de Napoleón Bonaparte, y la organización de juntas de gobierno a nivel local por Fernando VII para resistir al invasor, fueron factores determinantes teniendo en cuenta el debilitamiento que se produjo en la colonia por parte de la corona.</description>
+    </item>
+    
     <item>
       <title>210 años de la firma del acta de independencia de Colombia</title>
       <link>https://jfdazaluque.github.io/colsara/noticias/2021/independencia/</link>
@@ -32,15 +41,6 @@
       
       <guid>https://jfdazaluque.github.io/colsara/noticias/2021/reconocimiento-merito/</guid>
       <description>La educación es el pilar fundamental para construir una sociedad más justa y equitativa, por lo cual, es un completo desafío para los estudiantes, docentes e instituciones trabajar en alcanzar la excelencia educativa, ya que esta además de generar satisfacciones, ofrece un mundo de oportunidades, sobre todo a los estudiantes, ya que no solo culminan la secundaria con las capacidades críticas, competentes y prácticas para enfrentar el mundo universitario, sino que también sus méritos y conocimientos son reconocidos a través de becas gubernamentales (generación E) o institucionales (universitarias).</description>
-    </item>
-    
-    <item>
-      <title>Batalla De Boyaca</title>
-      <link>https://jfdazaluque.github.io/colsara/noticias/2021/batalla-de-boyaca/</link>
-      <pubDate>Tue, 13 Aug 2019 23:14:15 -0500</pubDate>
-      
-      <guid>https://jfdazaluque.github.io/colsara/noticias/2021/batalla-de-boyaca/</guid>
-      <description>Colombia ha sufrido innumerables acontecimientos que marcan su devenir histórico, por ello se conmemora el 20 de julio los primeros gritos de independencia que direccionan el proceso de descolonización del yugo español, la invasión francesa a España en 1808, llevada a cabo por parte de Napoleón Bonaparte, y la organización de juntas de gobierno a nivel local por Fernando VII para resistir al invasor, fueron factores determinantes teniendo en cuenta el debilitamiento que se produjo en la colonia por parte de la corona.</description>
     </item>
     
   </channel>

@@ -1,9 +1,7 @@
 baseURL = 'https://jfdazaluque.github.io/colsara/'
 languageCode = 'es'
 defaultContentLanguage = "es"
-title = 'Colegio Sara Deluque Panaflet'
-
-summaryLength = "10"
+title = "Colegio Sara Deluque Panaflet"
 
 theme = "bootstrap5"
 

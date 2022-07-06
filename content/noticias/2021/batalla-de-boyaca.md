@@ -1,6 +1,6 @@
 ---
 title: "Batalla De Boyaca"
-date: 2019-08-13T23:14:15-05:00
+date: 2021-08-13T23:14:15-05:00
 draft: false
 author: "colsara"
 ImagenDestacada: "https://jfdazaluque.github.io/colsara/images/noticias/2021/batalla/1.jpeg"
