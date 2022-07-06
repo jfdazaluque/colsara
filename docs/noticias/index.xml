@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noticias on Colegio Sara Deluque Panaflet</title>
-    <link>http://example.org/noticias/</link>
+    <link>https://jfdazaluque.github.io/colsara/noticias/</link>
     <description>Recent content in Noticias on Colegio Sara Deluque Panaflet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 13 Aug 2020 23:09:22 -0500</lastBuildDate><atom:link href="http://example.org/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Aug 2020 23:09:22 -0500</lastBuildDate><atom:link href="https://jfdazaluque.github.io/colsara/noticias/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>210 años de la firma del acta de independencia de Colombia</title>
-      <link>http://example.org/noticias/2021/independencia/</link>
+      <link>https://jfdazaluque.github.io/colsara/noticias/2021/independencia/</link>
       <pubDate>Thu, 13 Aug 2020 23:09:22 -0500</pubDate>
       
-      <guid>http://example.org/noticias/2021/independencia/</guid>
+      <guid>https://jfdazaluque.github.io/colsara/noticias/2021/independencia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estrategias Pedagogicas</title>
-      <link>http://example.org/noticias/2021/estrategias-pedagogicas/</link>
+      <link>https://jfdazaluque.github.io/colsara/noticias/2021/estrategias-pedagogicas/</link>
       <pubDate>Mon, 16 Mar 2020 22:29:43 -0500</pubDate>
       
-      <guid>http://example.org/noticias/2021/estrategias-pedagogicas/</guid>
+      <guid>https://jfdazaluque.github.io/colsara/noticias/2021/estrategias-pedagogicas/</guid>
       <description>Estas son las estrategias</description>
     </item>
     
     <item>
       <title>Sara Deluque Panaflet reconoce el mérito de sus estudiantes y los felicita por sus reconocimientos</title>
-      <link>http://example.org/noticias/2021/reconocimiento-merito/</link>
+      <link>https://jfdazaluque.github.io/colsara/noticias/2021/reconocimiento-merito/</link>
       <pubDate>Tue, 18 Feb 2020 14:49:08 -0500</pubDate>
       
-      <guid>http://example.org/noticias/2021/reconocimiento-merito/</guid>
+      <guid>https://jfdazaluque.github.io/colsara/noticias/2021/reconocimiento-merito/</guid>
       <description>La educación es el pilar fundamental para construir una sociedad más justa y equitativa, por lo cual, es un completo desafío para los estudiantes, docentes e instituciones trabajar en alcanzar la excelencia educativa, ya que esta además de generar satisfacciones, ofrece un mundo de oportunidades, sobre todo a los estudiantes, ya que no solo culminan la secundaria con las capacidades críticas, competentes y prácticas para enfrentar el mundo universitario, sino que también sus méritos y conocimientos son reconocidos a través de becas gubernamentales (generación E) o institucionales (universitarias).</description>
     </item>
     
     <item>
       <title>Batalla De Boyaca</title>
-      <link>http://example.org/noticias/2021/batalla-de-boyaca/</link>
+      <link>https://jfdazaluque.github.io/colsara/noticias/2021/batalla-de-boyaca/</link>
       <pubDate>Tue, 13 Aug 2019 23:14:15 -0500</pubDate>
       
-      <guid>http://example.org/noticias/2021/batalla-de-boyaca/</guid>
+      <guid>https://jfdazaluque.github.io/colsara/noticias/2021/batalla-de-boyaca/</guid>
       <description>Colombia ha sufrido innumerables acontecimientos que marcan su devenir histórico, por ello se conmemora el 20 de julio los primeros gritos de independencia que direccionan el proceso de descolonización del yugo español, la invasión francesa a España en 1808, llevada a cabo por parte de Napoleón Bonaparte, y la organización de juntas de gobierno a nivel local por Fernando VII para resistir al invasor, fueron factores determinantes teniendo en cuenta el debilitamiento que se produjo en la colonia por parte de la corona.</description>
     </item>
     
