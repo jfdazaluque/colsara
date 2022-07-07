@@ -1,9 +1,10 @@
 {{ define "main" }}
-    {{- partial "hero.html" . -}}
-    {{- partial "serviciosDestacados.html" . -}}
-    {{- partial "recorridoVirtual.html" . -}}
-    {{- partial "mejoresColegios.html" . -}}
-    {{- partial "publicacionesExternas.html" . -}}
+    {{ partial "hero.html" . }}
+    {{ partial "serviciosDestacados.html" . }}
+    {{ partial "recorridoVirtual.html" . }}
+    {{ partial "mejoresColegios.html" . }}
+    {{ partial "conoceNuestroColegio.html" . }}
+    
     <section id="about">
       <div class="container" data-aos="fade-up">
   
@@ -18,5 +19,6 @@
           {{ end }}
          </div>
         </div>
-      </section>
+    </section>
+    {{ partial "testimonios.html" . }}
 {{ end }}
