@@ -102,18 +102,11 @@ sectionPagesMenu = "main"
     weight = -190
 
     [[menu.horizonte]]
-    identifier = 'mision'
-    name = 'Misión'
-    url = '../mision/'
+    identifier = 'mision-vision'
+    name = 'Misión y Visión'
+    url = '../mision-vision/'
     weight = -180
     
-    [[menu.horizonte]]
-    identifier = 'vision'
-    name = 'Visión'
-    title = 'Visión'
-    url = '../vision/'
-    weight = -170
-
     [[menu.horizonte]]
     identifier = 'valores'
     name = 'Valores'

@@ -22,9 +22,9 @@
 
         <article class="entry entry-single">
 
-          <div class="entry-img">
+          <!-- <div class="entry-img">
             <img src="{{ .Param `ImagenDestacada` }}" alt="Imagen destacada de: {{.Title }}" class="img-fluid">
-          </div>
+          </div> -->
 
           <h2 class="entry-title">
             <a href="blog-single.html">{{ .Title }}</a>
@@ -46,7 +46,7 @@
                   {{ $currentPage := . }}
                   {{ range .Site.Menus.horizonte }}
                       {{ if .HasChildren }}
-                          <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                          <li class="{{ if $currentPage.HasMenuCurrent "horizonte" . }}active{{ end }}">
                               <a href="#">
                                   {{ .Pre }}
                                   <span>{{ .Name }}</span>
@@ -54,7 +54,7 @@
                           </li>
                           <ul class="sub-menu">
                               {{ range .Children }}
-                                  <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                  <li class="{{ if $currentPage.IsMenuCurrent "horizonte" . }}active{{ end }}">
                                       <a href="{{ .URL }}">{{ .Name }}</a>
                                   </li>
                               {{ end }}
