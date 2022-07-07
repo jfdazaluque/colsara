@@ -5,6 +5,8 @@ title = "Colegio Sara Deluque Panaflet"
 
 theme = "bootstrap5"
 
+summaryLength = 10
+
  [frontmatter]
     date = ["date", "publishDate", "lastmod"]
     lastmod = ["lastmod", ":fileModTime", ":default"]

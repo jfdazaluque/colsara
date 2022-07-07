@@ -1,22 +1,22 @@
 {{ define "main" }}
     {{- partial "hero.html" . -}}
     {{- partial "serviciosDestacados.html" . -}}
-    <section id="about">
-        <div class="container" data-aos="fade-up">
-    
-          <header class="section-header">
-            <h3>Noticias</h3>        
-          </header>
-          
-          <div class="row about-cols">    
-            {{ $paginator := .Paginate .Site.RegularPages.ByDate.Reverse }}
-                {{ range first 4 (where .Paginator.Pages "Type" "noticias")  }}
-                {{ .Render "noticia" }}
-            {{ end }}
-           </div>
-          </div>
-        </section>
     {{- partial "recorridoVirtual.html" . -}}
     {{- partial "mejoresColegios.html" . -}}
     {{- partial "publicacionesExternas.html" . -}}
+    <section id="about">
+      <div class="container" data-aos="fade-up">
+  
+        <header class="section-header">
+          <h3>Noticias</h3>        
+        </header>
+        
+        <div class="row about-cols">    
+          {{ $paginator := .Paginate .Site.RegularPages.ByDate.Reverse }}
+              {{ range first 4 (where .Paginator.Pages "Type" "noticias")  }}
+              {{ .Render "noticia" }}
+          {{ end }}
+         </div>
+        </div>
+      </section>
 {{ end }}
