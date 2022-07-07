@@ -94,9 +94,46 @@ sectionPagesMenu = "main"
     url = "https://colsara.q10.com"
     hrefTargetBlank = true
     
+
+    [[menu.horizonte]]
+    identifier = 'presentacion'
+    name = 'Presentación'
+    url = '../presentacion'
+    weight = -190
+
+    [[menu.horizonte]]
+    identifier = 'mision'
+    name = 'Misión'
+    url = '../mision/'
+    weight = -180
     
+    [[menu.horizonte]]
+    identifier = 'vision'
+    name = 'Visión'
+    title = 'Visión'
+    url = '../vision/'
+    weight = -170
 
+    [[menu.horizonte]]
+    identifier = 'valores'
+    name = 'Valores'
+    title = 'Valores'
+    url = '../avlores/'
+    weight = -160
 
+    [[menu.horizonte]]
+    identifier = 'politicas-institucionales'
+    name = 'Politicas Institucionales'
+    title = 'Politicas Institucionales'
+    url = '../politicas-institucionales/'
+    weight = -150
+
+    [[menu.horizonte]]
+    identifier = 'resena-historica'
+    name = 'Reseña Historica'
+    title = 'Reseña Historica'
+    url = '../resena-historica/'
+    weight = -140
     
 
     

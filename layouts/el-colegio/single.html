@@ -39,19 +39,39 @@
       <div class="col-lg-4">
 
         <div class="sidebar">
-  
-          <h3 class="sidebar-title">Categories</h3>
+          <h3 class="sidebar-title">Horizonte Institucional</h3>
           <div class="sidebar-item categories">
-            <ul>
-              <li><a href="#">General <span>(25)</span></a></li>
-              <li><a href="#">Lifestyle <span>(12)</span></a></li>
-              <li><a href="#">Travel <span>(5)</span></a></li>
-              <li><a href="#">Design <span>(22)</span></a></li>
-              <li><a href="#">Creative <span>(8)</span></a></li>
-              <li><a href="#">Educaion <span>(14)</span></a></li>
-            </ul>
+            <aside>
+              <ul>
+                  {{ $currentPage := . }}
+                  {{ range .Site.Menus.horizonte }}
+                      {{ if .HasChildren }}
+                          <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                              <a href="#">
+                                  {{ .Pre }}
+                                  <span>{{ .Name }}</span>
+                              </a>
+                          </li>
+                          <ul class="sub-menu">
+                              {{ range .Children }}
+                                  <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                      <a href="{{ .URL }}">{{ .Name }}</a>
+                                  </li>
+                              {{ end }}
+                          </ul>
+                      {{ else }}
+                          <li>
+                              <a href="{{ .URL }}">
+                                  {{ .Pre }}
+                                  <span>{{ .Name }}</span>
+                              </a>
+                          </li>
+                      {{ end }}
+                  {{ end }}
+              </ul>
+            </aside>
           </div><!-- End sidebar categories-->
-  
+          <!-- sidebar start -->
         </div><!-- End sidebar -->
   
       </div><!-- End blog sidebar -->
